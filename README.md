@@ -115,6 +115,8 @@ Extensions to Linear Regression: Interactions, Polynomial Regression, and Regula
 
 [Overfitting vs. Underfitting: A Complete Example](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
 
+[The Bias-Variance Tradeoff](https://djsaunde.wordpress.com/2017/07/17/the-bias-variance-tradeoff/)
+
 #### Vocab / Concepts 
 
 * Interactions
