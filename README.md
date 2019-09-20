@@ -48,7 +48,14 @@ Extensions to Linear Regression: Interactions, Polynomial Regression, and Regula
 
 #### Prerequisite knowledge: 
 
-* Students should be familiar with the basics of multiple linear regression. 
+* Students should be familiar with the basics of multiple linear regression, including the cost function. 
+
+* Students should be able to solve multiple linear regression problems with scikit-learn.
+
+* Students should understand the concepts of:
+    * coefficient of determination
+    * adjusted coefficient of determination
+    * mean squared error 
 
 #### Prerequisite Learn.co material:
 
@@ -56,11 +63,11 @@ Extensions to Linear Regression: Interactions, Polynomial Regression, and Regula
 
 #### Learning goals for this lesson:
 
-* Students can define interactions in the context of modeling 
-* Students can use `PolynomialFeatures` from sklearn in Python to train polynomial regression models. 
+* Students can define interactions in the context of modeling.  
+* Students can use `PolynomialFeatures` from sklearn in Python to create additional polynomial and interaction terms.
 * Students can explain the bias-variance tradeoff. 
-* Student can explain what Lasso and Ridge Regression are, and how they are used in Regularization.
-* Students can use sklearn to fit regularized (Lasso, Ridge) linear regression models. 
+* Students can explain what Lasso and Ridge Regression are, and how they are used in Regularization.
+* Students can use sklearn to fit regularized (Lasso) linear regression models. 
 
 #### Relevant learning goals from Airtable 
 
@@ -69,6 +76,7 @@ _airtable learning goals go here_
 #### Misconceptions / Notes
 
 * A common misconception is that when we train models we want them to fit the data perfectly. 
+    * We actually want models that can generalize to unseen data! 
 
 #### Materials
 
