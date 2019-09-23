@@ -9,7 +9,7 @@ hidden: true
 
 
 **Course**: DS   <br/>
-**Mod**: Mod 4               <br/>
+**Mod**: Mod 4 V2              <br/>
 **Topic**: Extensions to Linear Regression   <br/>
 **Amount of time**: 60  minutes  <br/>
 **Author**: Laura Colon-Melendez, Greg Damico
